@@ -31,7 +31,7 @@ public class Car
   }
 
   public boolean isAitanaFat;
-
+  private Something something;
 
 
 }
