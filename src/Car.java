@@ -2,6 +2,7 @@ public class Car
 {
   private String make;
   private String RegPlate;
+  private String owner;
 
   public String getMake()
   {
