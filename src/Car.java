@@ -20,7 +20,7 @@ public class Car
 
   public void setRegPlate(String regPlate)
   {
-    RegPlate = regPlate;
+    this.RegPlate = regPlate;
   }
 
   public Car(String make, String regPlate)
