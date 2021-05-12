@@ -34,5 +34,8 @@ public class Car
     return false;
 
 }
+  public boolean isAitanaFat;
+  private Something something;
+
 
 }
