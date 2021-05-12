@@ -30,5 +30,8 @@ public class Car
     this.RegPlate = regPlate;
   }
 
+  public boolean isAitanaFat;
+
+
 
 }
